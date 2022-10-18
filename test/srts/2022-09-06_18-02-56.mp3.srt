@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hi, welcome to Mandy's. Would you like to try new Blaise & Baconator today?
+
+2
+00:00:06,000 --> 00:00:14,000
+No, thank you. Could I have a combo number 7 with no tomato?
+
+3
+00:00:14,000 --> 00:00:16,000
+Okay.
+
+4
+00:00:16,000 --> 00:00:21,000
+And I'd like a fake potato with that, sour cream and chive.
+
+5
+00:00:21,000 --> 00:00:23,000
+And cooked your drink?
+
+6
+00:00:23,000 --> 00:00:25,000
+Coke is fine, yes, small.
+
+7
+00:00:25,000 --> 00:00:27,000
+Thank you.
+
+8
+00:00:30,000 --> 00:00:32,000
+Anything else for you?
+
+9
+00:00:32,000 --> 00:00:34,000
+Uh, no, that's all, thank you.
+
+10
+00:00:34,000 --> 00:01:02,000
+Thank you.
+

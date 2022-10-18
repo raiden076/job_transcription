@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:08,520
+hi welcome to Wendy's would you like to try new pleasant baconator today? no thank
+
+2
+00:00:08,520 --> 00:00:12,620
+you. may I take your order please? we need one
+
+3
+00:00:12,620 --> 00:00:25,800
+JBC okay my chicken nuggets. lump sauce for the dipping? no this is not dipping and can I
+
+4
+00:00:25,800 --> 00:00:37,160
+help with your fries? okay. a large vanilla frosty chino? vanilla frosty chino or something?
+
+5
+00:00:37,160 --> 00:00:57,560
+okay. and can I have one caramel apple frosty? okay. that's it. drive up to thank you.
+

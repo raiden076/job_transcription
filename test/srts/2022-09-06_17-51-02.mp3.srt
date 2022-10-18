@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try a new Belgian Baconator today?
+
+2
+00:00:07,000 --> 00:00:12,000
+Hi, can I have a frosty please?
+
+3
+00:00:12,000 --> 00:00:14,000
+You want the chocolate or the caramel apple?
+
+4
+00:00:14,000 --> 00:00:16,000
+No, vanilla.
+
+5
+00:00:16,000 --> 00:00:20,000
+We don't have vanilla. You want to try the new one, caramel apple?
+
+6
+00:00:20,000 --> 00:00:25,000
+Caramel apple? Interesting. Okay, let me try that.
+
+7
+00:00:25,000 --> 00:00:27,000
+You want small, medium or large?
+
+8
+00:00:27,000 --> 00:00:32,000
+Well, isn't it a dollar for the frosty?
+
+9
+00:00:32,000 --> 00:00:58,000
+No, the promotion is over now.
+

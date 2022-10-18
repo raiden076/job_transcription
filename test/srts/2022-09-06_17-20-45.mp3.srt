@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hi, welcome to Wendy's. Would you like to try a new blazer in Baconator today?
+
+2
+00:00:06,000 --> 00:00:08,000
+No, let me have a number 2, no pickles.
+
+3
+00:00:08,000 --> 00:00:12,000
+Number 2, would you like to make it combo?
+
+4
+00:00:12,000 --> 00:00:14,000
+Yeah, play the watermelon.
+
+5
+00:00:14,000 --> 00:00:16,000
+Would that be medium or large combo?
+
+6
+00:00:16,000 --> 00:00:18,000
+No.
+
+7
+00:00:18,000 --> 00:00:20,000
+It's no pickles, right?
+
+8
+00:00:20,000 --> 00:00:22,000
+No pickles.
+
+9
+00:00:22,000 --> 00:00:32,000
+Do you want to see it?
+

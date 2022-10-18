@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hi welcome to N.E.S. would you like to try a new blazon bacon eater today?
+
+2
+00:00:10,000 --> 00:00:12,000
+Hi may I teach you how to pay?
+
+3
+00:00:12,000 --> 00:00:15,000
+Hi can I get a cheeseburger pizza now?
+
+4
+00:00:16,000 --> 00:00:18,000
+Apple juice today?
+
+5
+00:00:20,000 --> 00:00:22,000
+Pardon me?
+
+6
+00:00:23,000 --> 00:00:25,000
+Water, water?
+
+7
+00:00:25,000 --> 00:00:27,000
+Anything else for you?
+
+8
+00:00:29,000 --> 00:00:31,000
+Also one single
+
+9
+00:00:34,000 --> 00:00:36,000
+Would you like to make it combo?
+
+10
+00:00:36,000 --> 00:00:38,000
+No of course
+
+11
+00:00:38,000 --> 00:00:39,000
+Yeah?
+
+12
+00:00:39,000 --> 00:00:40,000
+No
+
+13
+00:00:40,000 --> 00:00:42,000
+Anything else for you?
+
+14
+00:00:42,000 --> 00:00:55,000
+Anything else for you?
+

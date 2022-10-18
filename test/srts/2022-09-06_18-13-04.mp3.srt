@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:10,640
+Hi, in the 20s, would you like to try our raisin raisinator in a combo?
+
+2
+00:00:10,640 --> 00:00:12,000
+Uh, I'm not paying you.
+
+3
+00:00:12,000 --> 00:00:13,520
+Alright, go ahead.
+
+4
+00:00:13,520 --> 00:00:16,480
+Yeah, so can I just get the grilled cedar salad?
+
+5
+00:00:16,480 --> 00:00:18,080
+Yeah, would you like to make it as a combo?
+
+6
+00:00:19,120 --> 00:00:20,720
+Uh, that's okay.
+
+7
+00:00:21,360 --> 00:00:23,440
+Can I get the salad with more cheese, please?
+
+8
+00:00:24,000 --> 00:00:26,080
+Okay, grilled cedar salad, no cheese.
+
+9
+00:00:26,080 --> 00:00:30,000
+Yeah, no cheese, and then I'll just get a chicken raisin.
+
+10
+00:00:30,000 --> 00:00:30,560
+Spicy?
+
+11
+00:00:31,120 --> 00:00:32,000
+Uh, no spicy.
+
+12
+00:00:32,720 --> 00:00:33,840
+Classic or the grilled?
+
+13
+00:00:34,640 --> 00:00:36,960
+Um, I'll get a classic.
+
+14
+00:00:37,520 --> 00:00:38,240
+Okay.
+
+15
+00:00:38,240 --> 00:00:38,800
+Yeah.
+
+16
+00:00:38,800 --> 00:00:39,520
+Anything else?
+
+17
+00:00:40,160 --> 00:00:41,360
+Uh, no, that's it.
+
+18
+00:00:41,360 --> 00:00:59,120
+Drago, please, thank you.
+

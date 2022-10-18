@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:08,000
+Hi, welcome to Wendy's. Would you like to try new blazon bacon eater today?
+
+2
+00:00:08,000 --> 00:00:12,000
+No, thank you for that. Can I get the junior bacon cheeseburger?
+
+3
+00:00:12,000 --> 00:00:13,000
+Okay.
+
+4
+00:00:13,000 --> 00:00:15,000
+Make it the junior cheeseburger dinner.
+
+5
+00:00:15,000 --> 00:00:16,000
+Okay.
+
+6
+00:00:16,000 --> 00:00:19,000
+Yes, and five piece crispy nuggets.
+
+7
+00:00:19,000 --> 00:00:21,000
+Some sauce for the nuggets?
+
+8
+00:00:21,000 --> 00:00:23,000
+No, mustard. Any mustard.
+
+9
+00:00:23,000 --> 00:00:24,000
+Anything else?
+
+10
+00:00:24,000 --> 00:00:25,000
+That's pure. Thank you.
+
+11
+00:00:25,000 --> 00:00:30,000
+Thank you.
+

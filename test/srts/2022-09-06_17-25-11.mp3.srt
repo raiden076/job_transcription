@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try a new blazon bacon eater today?
+
+2
+00:00:07,000 --> 00:00:13,000
+Oh, no. Can you get a medium-dried cooked with light ice?
+
+3
+00:00:13,000 --> 00:00:15,000
+Medium-dried cooked, no ice? Light ice.
+
+4
+00:00:15,000 --> 00:00:17,000
+Light ice. Anything else for you?
+
+5
+00:00:17,000 --> 00:00:18,000
+That is all.
+
+6
+00:00:18,000 --> 00:00:31,000
+Drive up, please. Thank you.
+

@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hi driver, from the Wendy's, would you like to try our Blazing Baconator combo today?
+
+2
+00:00:05,000 --> 00:00:08,000
+Okay, go ahead.
+
+3
+00:00:08,000 --> 00:00:11,000
+Just a small strawberry lemonade.
+
+4
+00:00:11,000 --> 00:00:13,000
+Small strawberry lemonade, anything else?
+
+5
+00:00:13,000 --> 00:00:14,000
+No, that's it.
+
+6
+00:00:14,000 --> 00:00:37,000
+Enjoy that, please. Thank you.
+

@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try new bread and bacon at your today?
+
+2
+00:00:07,000 --> 00:00:11,000
+Which one? Ten please. Chicken nugget.
+
+3
+00:00:11,000 --> 00:00:14,000
+Ten nuggets? Yes, ten please.
+
+4
+00:00:14,000 --> 00:00:18,000
+Would you like to make it combo? No, no, only ten please.
+
+5
+00:00:18,000 --> 00:00:21,000
+Plum sauce is fine? Yes, thank you.
+
+6
+00:00:21,000 --> 00:00:24,000
+Anything else for you? Thank you.
+
+7
+00:00:24,000 --> 00:00:31,000
+Can you drive up there? Thank you.
+

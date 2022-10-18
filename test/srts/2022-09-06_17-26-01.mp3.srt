@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:00,500
+Yeah.
+
+2
+00:00:05,400 --> 00:00:06,800
+Anything else for you?
+
+3
+00:00:07,600 --> 00:00:08,100
+Um...
+
+4
+00:00:12,400 --> 00:00:13,700
+Is it cooked or drink?
+
+5
+00:00:14,500 --> 00:00:16,200
+No, can I get a fresh cup?
+
+6
+00:00:19,100 --> 00:00:23,400
+Oh, um, instead of the fries, give me the baked potato
+
+7
+00:00:23,400 --> 00:00:29,800
+with, um, cheese and bacon.
+
+8
+00:00:30,800 --> 00:00:32,400
+And cooked or drink is fine?
+
+9
+00:00:33,200 --> 00:00:34,800
+Um, fresh stuff.
+
+10
+00:00:37,000 --> 00:00:38,200
+Anything else for you?
+
+11
+00:00:39,400 --> 00:00:40,400
+No, that's it.
+
+12
+00:00:41,000 --> 00:00:43,000
+Would it be medium or large combo?
+
+13
+00:00:43,200 --> 00:00:44,200
+Um, medium.
+
+14
+00:00:45,000 --> 00:00:46,200
+Anything else for you?
+
+15
+00:00:46,400 --> 00:00:47,200
+Nope, that's it.
+
+16
+00:00:47,200 --> 00:00:53,200
+Drive us, please. Thank you.
+

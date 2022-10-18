@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:06,800
+Hi, welcome to Wendy's, would you like to try a new Blaze and Bacon, it is in a combo
+
+2
+00:00:06,800 --> 00:00:07,800
+today?
+
+3
+00:00:07,800 --> 00:00:10,800
+No, can I get an under 6?
+
+4
+00:00:10,800 --> 00:00:12,800
+Is it cooked to drink?
+
+5
+00:00:12,800 --> 00:00:13,800
+Yeah.
+
+6
+00:00:13,800 --> 00:00:15,800
+Would that be medium or large combo?
+
+7
+00:00:15,800 --> 00:00:16,800
+Medium.
+
+8
+00:00:16,800 --> 00:00:17,800
+Anything else for you?
+
+9
+00:00:17,800 --> 00:00:20,800
+Can I get a junior bacon cheeseburger?
+
+10
+00:00:20,800 --> 00:00:21,800
+Okay.
+
+11
+00:00:21,800 --> 00:00:26,800
+And then I'll get a medium strawberry lemonade.
+
+12
+00:00:26,800 --> 00:00:29,800
+Sure, anything else for you?
+
+13
+00:00:29,800 --> 00:00:31,800
+And a bottle of water.
+
+14
+00:00:31,800 --> 00:00:32,800
+Okay.
+
+15
+00:00:32,800 --> 00:00:33,800
+That's it.
+
+16
+00:00:33,800 --> 00:01:01,800
+Drive up please, thank you.
+

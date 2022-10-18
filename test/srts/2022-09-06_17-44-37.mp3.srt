@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hi, welcome to Wendy's. Would you like to try a new blizzard bacon eater today?
+
+2
+00:00:05,000 --> 00:00:08,000
+No, that's okay.
+
+3
+00:00:08,000 --> 00:00:09,000
+May I take you out of the place?
+
+4
+00:00:09,000 --> 00:00:14,000
+Yeah, can I get a 10 piece nugget meal?
+
+5
+00:00:14,000 --> 00:00:17,000
+Plum sauce is fine for the dipping?
+
+6
+00:00:17,000 --> 00:00:18,000
+Uh, barbecue sauce please.
+
+7
+00:00:18,000 --> 00:00:20,000
+And cooked to drink?
+
+8
+00:00:20,000 --> 00:00:22,000
+What are you drinking?
+
+9
+00:00:22,000 --> 00:00:25,000
+The strawberry lemonade light ice please.
+
+10
+00:00:25,000 --> 00:00:29,000
+Would that be a medium or large combo?
+
+11
+00:00:29,000 --> 00:00:30,000
+Just regular please.
+
+12
+00:00:30,000 --> 00:00:32,000
+Anything else for you?
+
+13
+00:00:32,000 --> 00:00:38,000
+Yep, can I also get a number one with no onions?
+
+14
+00:00:38,000 --> 00:00:39,000
+Cooked to drink?
+
+15
+00:00:39,000 --> 00:00:42,000
+Cooked to drink, no ice please.
+
+16
+00:00:42,000 --> 00:00:45,000
+Can I make the fries a poutine?
+
+17
+00:00:45,000 --> 00:00:47,000
+Yeah, you can.
+
+18
+00:00:47,000 --> 00:00:50,000
+Anything else for you?
+
+19
+00:00:50,000 --> 00:00:55,000
+I'm also going to get a bacon and cheese baked potato.
+
+20
+00:00:55,000 --> 00:00:56,000
+Okay.
+
+21
+00:00:56,000 --> 00:01:04,000
+And just the burger of the Dave's Burger, the Dave's single, sorry.
+
+22
+00:01:04,000 --> 00:01:09,000
+And that one's only lettuce, tomato and cheese.
+
+23
+00:01:09,000 --> 00:01:12,000
+Just the sandwich, right?
+
+24
+00:01:12,000 --> 00:01:14,000
+Yes, just the sandwich.
+
+25
+00:01:14,000 --> 00:01:20,000
+So it's pretty much, I'm sorry I'm going to make it simple, it's pretty much no onions and no sauce.
+
+26
+00:01:20,000 --> 00:01:21,000
+Sorry.
+
+27
+00:01:21,000 --> 00:01:25,000
+So it's the sandwich you want only tomato and lettuce, right?
+
+28
+00:01:25,000 --> 00:01:27,000
+Pickles and cheese.
+
+29
+00:01:27,000 --> 00:01:30,000
+That's what I said, I was trying to fix it, sorry.
+
+30
+00:01:30,000 --> 00:01:33,000
+Pickles and cheese. Anything else for you?
+
+31
+00:01:33,000 --> 00:01:35,000
+Nope, I believe that's everything.
+
+32
+00:01:35,000 --> 00:01:56,000
+Thank you.
+

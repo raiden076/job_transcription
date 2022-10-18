@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:11,000
+Hi, give me just one moment, please.
+
+2
+00:00:11,000 --> 00:00:12,000
+Hi.
+
+3
+00:00:12,000 --> 00:00:14,000
+Hi, give me one moment, please.
+
+4
+00:00:14,000 --> 00:00:15,000
+Don't let me say it.
+
+5
+00:00:15,000 --> 00:00:44,000
+I don't want you to say it.
+

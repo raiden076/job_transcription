@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hi, welcome to Wendy's. Would you like to try a new Blizzard Baconator today?
+
+2
+00:00:06,000 --> 00:00:09,000
+No, I'm okay. She's here. What do you want? Chicken strips?
+
+3
+00:00:13,000 --> 00:00:15,000
+Hi, can I get the...
+
+4
+00:00:16,000 --> 00:00:19,000
+Do you have like a five piece strip combo?
+
+5
+00:00:20,000 --> 00:00:25,000
+We do have three pieces. I can give you on the side, like two strips on the side.
+
+6
+00:00:25,000 --> 00:00:30,000
+And then how much for the crispy for the combo?
+
+7
+00:00:30,000 --> 00:00:32,000
+Just let me try.
+
+8
+00:00:37,000 --> 00:00:40,000
+So, it's 16.15.
+
+9
+00:00:45,000 --> 00:00:51,000
+Okay. Yeah, that's fine. I'll take the chicken strips combo.
+
+10
+00:00:51,000 --> 00:00:55,000
+Do you want to go with them?
+
+11
+00:00:55,000 --> 00:00:57,000
+Do you have chicken strips? Oh, you have nuggets?
+
+12
+00:00:57,000 --> 00:01:01,000
+Okay, so I'll take the three piece combo and then the nugget.
+
+13
+00:01:01,000 --> 00:01:03,000
+The four piece nugget combo.
+
+14
+00:01:03,000 --> 00:01:10,000
+So, for the nuggets we do have five piece and ten nuggets. I can make it combo.
+
+15
+00:01:11,000 --> 00:01:14,000
+No, I'll take the kids meal, the four piece nugget.
+
+16
+00:01:14,000 --> 00:01:15,000
+Okay.
+
+17
+00:01:15,000 --> 00:01:21,000
+And then just a...
+

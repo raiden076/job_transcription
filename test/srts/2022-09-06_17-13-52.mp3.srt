@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's, would you like to try a new blazing bacon etude today?
+
+2
+00:00:07,000 --> 00:00:14,000
+Can I get a day's triple sandwich, no cheese?
+
+3
+00:00:14,000 --> 00:00:17,000
+Would you like to make it combo?
+
+4
+00:00:17,000 --> 00:00:25,000
+Also, can I get one medium chocolate frosting and one small chocolate frosting?
+
+5
+00:00:25,000 --> 00:00:29,000
+For the triple cheese, you want to make it combo, right?
+
+6
+00:00:29,000 --> 00:00:33,000
+Okay, one medium chocolate frosting?
+
+7
+00:00:33,000 --> 00:00:36,000
+Yeah, one small chocolate frosting.
+
+8
+00:00:36,000 --> 00:00:38,000
+And the sandwich is no cheese.
+
+9
+00:00:38,000 --> 00:00:40,000
+Yeah, I got it.
+
+10
+00:00:40,000 --> 00:00:42,000
+Anything else for you?
+
+11
+00:00:42,000 --> 00:00:43,000
+That's it.
+
+12
+00:00:43,000 --> 00:01:12,000
+Okay, thank you.
+

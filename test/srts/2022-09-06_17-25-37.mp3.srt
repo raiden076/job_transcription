@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:11,200
+Hi, welcome to Wendy's, would you like to try new Blazin' Baconator today?
+
+2
+00:00:11,200 --> 00:00:13,200
+May I take care of the plate?
+
+3
+00:00:13,200 --> 00:00:18,600
+I'll have the number 7 combo, can you add bacon?
+
+4
+00:00:18,600 --> 00:00:30,600
+I'll have the number 7 combo.
+

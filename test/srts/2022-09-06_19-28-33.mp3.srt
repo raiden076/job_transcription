@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:09,760
+Hi, welcome to Wendy's, would you like to try our new blade and bake nature in a combo
+
+2
+00:00:09,760 --> 00:00:10,760
+today?
+
+3
+00:00:10,760 --> 00:00:11,760
+No.
+
+4
+00:00:11,760 --> 00:00:12,760
+Hi.
+
+5
+00:00:12,760 --> 00:00:13,760
+Hi.
+
+6
+00:00:13,760 --> 00:00:17,960
+Can I get a medium strawberry lemonade?
+
+7
+00:00:17,960 --> 00:00:18,960
+Anything else for you?
+
+8
+00:00:18,960 --> 00:00:19,960
+With extra strawberries.
+
+9
+00:00:19,960 --> 00:00:20,960
+Okay.
+
+10
+00:00:20,960 --> 00:00:21,960
+And a small chocolate frosting.
+
+11
+00:00:21,960 --> 00:00:22,960
+Small chocolate frosting?
+
+12
+00:00:22,960 --> 00:00:23,960
+Yep.
+
+13
+00:00:23,960 --> 00:00:24,960
+Okay.
+
+14
+00:00:24,960 --> 00:00:30,960
+That's everything?
+
+15
+00:00:30,960 --> 00:00:34,960
+That's everything.
+
+16
+00:00:34,960 --> 00:00:57,780
+Thanks so much.
+
+17
+00:00:57,780 --> 00:01:03,320
+Bye-bye.
+

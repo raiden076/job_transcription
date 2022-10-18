@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try a new blade and sandwich today?
+
+2
+00:00:07,000 --> 00:00:12,000
+No, it's okay. Can I just get two regular chocolate frosting?
+
+3
+00:00:12,000 --> 00:00:14,000
+You want chocolate frosting?
+
+4
+00:00:14,000 --> 00:00:16,000
+Yeah, two of them, regular size.
+
+5
+00:00:16,000 --> 00:00:18,000
+Anything else for you?
+
+6
+00:00:18,000 --> 00:00:19,000
+No, that's it.
+
+7
+00:00:19,000 --> 00:00:20,000
+Drive up, please. Thank you.
+
+8
+00:00:20,000 --> 00:00:30,000
+Thank you.
+

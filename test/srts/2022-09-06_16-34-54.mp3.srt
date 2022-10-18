@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:08,000
+Hi, welcome to Wendy's. Would you like to try a new Blazon Baconator today?
+
+2
+00:00:08,000 --> 00:00:14,000
+No. Do you have those potatoes you get for breakfast?
+
+3
+00:00:14,000 --> 00:00:18,000
+Potato veggies? No, it's for the breakfast.
+
+4
+00:00:18,000 --> 00:00:32,000
+It's only breakfast, right? Yeah.
+
+5
+00:00:32,000 --> 00:00:36,000
+Can I get three chicken strips?
+
+6
+00:00:36,000 --> 00:00:42,000
+You want to make it combo?
+
+7
+00:00:42,000 --> 00:00:46,000
+Sure. No, just fries, no drink.
+
+8
+00:00:46,000 --> 00:00:51,000
+Actually, I'll get a combo. I'll get a combo with the lemonade.
+
+9
+00:00:51,000 --> 00:00:56,000
+Would that be medium or large combo? Small.
+
+10
+00:00:56,000 --> 00:01:00,000
+And plum sauce is fine? What other sauces do you have?
+
+11
+00:01:00,000 --> 00:01:04,000
+Barbecue, plum sauce, honey mustard ranch and the goose pepper ranch.
+
+12
+00:01:04,000 --> 00:01:09,000
+Barbecue. And you want the original lemonade?
+
+13
+00:01:09,000 --> 00:01:13,000
+Yes. Anything else for you?
+
+14
+00:01:13,000 --> 00:01:17,000
+Drive up please, thank you.
+

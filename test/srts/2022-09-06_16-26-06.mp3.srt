@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:04,440
+Hi, welcome to Wendy's. Would you like to try a new
+
+2
+00:00:04,440 --> 00:00:08,200
+Blazin' Baconator today? No, no, thank you.
+
+3
+00:00:08,200 --> 00:00:11,200
+Can I get a spicy chicken sandwich combo, please?
+
+4
+00:00:11,200 --> 00:00:15,600
+Is it cooked to drink? Yes.
+
+5
+00:00:15,600 --> 00:00:19,000
+Would that be medium or large combo?
+
+6
+00:00:19,000 --> 00:00:23,200
+Medium. Anything else for you?
+
+7
+00:00:23,200 --> 00:00:27,200
+Can I also get no tomato on the sandwich?
+
+8
+00:00:27,200 --> 00:00:32,200
+Ok. That's it, thank you.
+
+9
+00:00:32,200 --> 00:01:00,200
+Thank you very much.
+

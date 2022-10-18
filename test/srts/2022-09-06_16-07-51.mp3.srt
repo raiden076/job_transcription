@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try new blazing baconator today?
+
+2
+00:00:07,000 --> 00:00:13,000
+A new what? New blazing baconator in a combo today?
+
+3
+00:00:13,000 --> 00:00:18,000
+No. Let me just have the grilled chicken with the coke.
+
+4
+00:00:18,000 --> 00:00:22,000
+Pardon me? A grilled chicken with the coke.
+
+5
+00:00:22,000 --> 00:00:28,000
+Would you like to make it combo? Yeah, make it large for me too. Large coke.
+
+6
+00:00:28,000 --> 00:00:31,000
+Anything else for you? That's it.
+
+7
+00:00:31,000 --> 00:00:58,000
+Can I drive up there? Thank you.
+

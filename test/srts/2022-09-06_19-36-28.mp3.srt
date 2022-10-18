@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,000
+Hi, may I take your order please?
+
+2
+00:00:03,000 --> 00:00:06,000
+Um...
+
+3
+00:00:07,000 --> 00:00:11,000
+Can I... Does the double JVC come in a combo?
+
+4
+00:00:11,000 --> 00:00:16,000
+No, it doesn't come with a combo. I can give you on the side, like what else you want.
+
+5
+00:00:16,000 --> 00:00:19,000
+I can get fries and a drink on the side? How much is that though?
+
+6
+00:00:19,000 --> 00:00:31,000
+Does it make sense to just buy a combo?
+

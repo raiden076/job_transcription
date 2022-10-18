@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try new Pleasant Baconator today?
+
+2
+00:00:07,000 --> 00:00:08,000
+Yes.
+
+3
+00:00:08,000 --> 00:00:10,000
+Would you like to make it combo?
+
+4
+00:00:10,000 --> 00:00:35,000
+Yes.
+

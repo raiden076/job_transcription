@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's, would you like to try a new Blaze and Baconator today?
+
+2
+00:00:07,000 --> 00:00:11,000
+Uh, no, no. Can I get a Junior Cheeseburger, please?
+
+3
+00:00:11,000 --> 00:00:12,000
+Okay.
+
+4
+00:00:12,000 --> 00:00:13,000
+That's it.
+
+5
+00:00:13,000 --> 00:00:31,000
+Drive up there, thank you.
+

@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try a new blazing bacon eater today?
+
+2
+00:00:07,000 --> 00:00:12,000
+Nah. Hi, may I take your order please?
+
+3
+00:00:12,000 --> 00:00:16,000
+Yeah, I thought it was spicy chicken sandwich. Would you like to make a combo?
+
+4
+00:00:16,000 --> 00:00:21,000
+Nope, I need a medium salad, Caesar salad with it.
+
+5
+00:00:21,000 --> 00:00:26,000
+We do have only one size salad. Okay.
+
+6
+00:00:26,000 --> 00:00:30,000
+So you want the Caesar salad? Yeah.
+
+7
+00:00:30,000 --> 00:00:33,000
+And the spicy chicken sandwich? Yep, that's it.
+
+8
+00:00:33,000 --> 00:01:01,000
+Drive up please, thank you. Try it.
+

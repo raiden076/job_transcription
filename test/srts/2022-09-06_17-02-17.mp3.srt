@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi there, welcome to Wendy's, would you like to try our Blazing Baconator today?
+
+2
+00:00:07,000 --> 00:00:08,000
+Hello.
+
+3
+00:00:08,000 --> 00:00:09,000
+Hi.
+
+4
+00:00:09,000 --> 00:00:20,000
+Can I have the number, number 6.
+
+5
+00:00:20,000 --> 00:00:23,000
+Number 6 combo?
+
+6
+00:00:23,000 --> 00:00:24,000
+Yeah.
+
+7
+00:00:24,000 --> 00:00:26,000
+Coke the drink.
+
+8
+00:00:26,000 --> 00:00:30,000
+One other drink here.
+
+9
+00:00:30,000 --> 00:00:33,000
+So we have a lot of drinks, options.
+
+10
+00:00:33,000 --> 00:00:37,000
+We have root beer, we have over a hundred drinks.
+
+11
+00:00:37,000 --> 00:00:39,000
+The boy always said Coke.
+
+12
+00:00:39,000 --> 00:00:46,000
+So Coke, Diet Coke, Sprite, Ice Tea, Fanta.
+
+13
+00:00:46,000 --> 00:00:48,000
+Give me Ice Tea.
+
+14
+00:00:48,000 --> 00:00:53,000
+Ok, so number 6 combo.
+
+15
+00:00:53,000 --> 00:00:55,000
+Is Ice Tea.
+
+16
+00:00:55,000 --> 00:00:57,000
+Yeah, a lot of ice.
+
+17
+00:00:57,000 --> 00:00:58,000
+Sorry?
+
+18
+00:00:58,000 --> 00:01:02,000
+A lot of ice in the drink.
+
+19
+00:01:02,000 --> 00:01:03,000
+No ice?
+
+20
+00:01:03,000 --> 00:01:04,000
+Lots of ice in the drink.
+
+21
+00:01:04,000 --> 00:01:06,000
+Extra ice?
+
+22
+00:01:06,000 --> 00:01:10,000
+Ok, would you like to make your combo medium or large?
+
+23
+00:01:10,000 --> 00:01:11,000
+What?
+
+24
+00:01:11,000 --> 00:01:16,000
+Would you like to upsize your combo to medium or large?
+
+25
+00:01:16,000 --> 00:01:18,000
+What do you mean upsize my combo?
+
+26
+00:01:18,000 --> 00:01:21,000
+The price and the drink, do you want to upsize it?
+
+27
+00:01:21,000 --> 00:01:25,000
+Do they give you small price and small drink to come with?
+
+28
+00:01:25,000 --> 00:01:26,000
+Yup.
+
+29
+00:01:26,000 --> 00:01:27,000
+When since is this?
+
+30
+00:01:27,000 --> 00:01:28,000
+Sorry?
+
+31
+00:01:28,000 --> 00:01:29,000
+When since is this?
+
+32
+00:01:29,000 --> 00:01:31,000
+I have a Wendy's right at my house.
+
+33
+00:01:31,000 --> 00:01:32,000
+I'm hard inside.
+
+34
+00:01:32,000 --> 00:01:36,000
+I throw one and they don't do that.
+
+35
+00:01:36,000 --> 00:01:40,000
+The small is the regular size.
+
+36
+00:01:40,000 --> 00:01:41,000
+No, it's ok.
+
+37
+00:01:41,000 --> 00:01:42,000
+Just give me that.
+
+38
+00:01:42,000 --> 00:01:43,000
+Give me that guys.
+
+39
+00:01:43,000 --> 00:01:44,000
+Ok, anything else?
+
+40
+00:01:44,000 --> 00:01:45,000
+No.
+
+41
+00:01:45,000 --> 00:01:52,000
+Thank you.
+

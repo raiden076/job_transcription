@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:09,760
+Hi, welcome to my niece, would you like to try our blazing baconator in a combo?
+
+2
+00:00:09,760 --> 00:00:10,760
+I'm okay thank you.
+
+3
+00:00:10,760 --> 00:00:11,760
+Okay, go ahead.
+
+4
+00:00:11,760 --> 00:00:16,320
+Can I get a number one combo please with a large fry?
+
+5
+00:00:16,320 --> 00:00:19,120
+Okay, Coke to drink.
+
+6
+00:00:19,120 --> 00:00:20,120
+Root beer please.
+
+7
+00:00:20,120 --> 00:00:21,120
+Large as well?
+
+8
+00:00:21,120 --> 00:00:22,120
+Uh, medium.
+
+9
+00:00:22,120 --> 00:00:23,120
+Okay, anything else?
+
+10
+00:00:23,120 --> 00:00:29,960
+And can I get three junior bacon cheeseburgers with no tomato?
+
+11
+00:00:29,960 --> 00:00:30,960
+Okay.
+
+12
+00:00:30,960 --> 00:00:31,960
+Okay.
+

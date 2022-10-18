@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:08,000
+Hi, welcome to Wendy's. Would you like to try a new place in Baconator today?
+
+2
+00:00:08,000 --> 00:00:11,000
+No thanks.
+
+3
+00:00:11,000 --> 00:00:13,000
+May I take your order please?
+
+4
+00:00:13,000 --> 00:00:16,000
+Can I get five of these nuggets?
+
+5
+00:00:16,000 --> 00:00:18,000
+Plum sauce for the dipping?
+
+6
+00:00:18,000 --> 00:00:20,000
+What? Sorry?
+
+7
+00:00:20,000 --> 00:00:22,000
+Plum sauce for the dipping?
+
+8
+00:00:22,000 --> 00:00:23,000
+No dipping, no dipping.
+
+9
+00:00:23,000 --> 00:00:25,000
+Anything else for you?
+
+10
+00:00:25,000 --> 00:00:26,000
+A cheesy cherry burger.
+
+11
+00:00:26,000 --> 00:00:28,000
+Okay.
+
+12
+00:00:28,000 --> 00:00:29,000
+That's it.
+
+13
+00:00:29,000 --> 00:00:32,000
+Drive up there, thank you.
+

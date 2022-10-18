@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, would you like to try a new Pleasant Baconator in a combo today?
+
+2
+00:00:07,000 --> 00:00:12,000
+I know that should be ok, we'll just take two small vanilla frosties please.
+
+3
+00:00:12,000 --> 00:00:18,000
+Oh sorry, we don't carry vanilla frosties, we do have the caramel apple, would you like
+
+4
+00:00:18,000 --> 00:00:19,000
+to try that one?
+
+5
+00:00:19,000 --> 00:00:31,000
+Ok then let it be, that's ok.
+

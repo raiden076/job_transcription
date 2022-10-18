@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:07,040
+Hi, welcome to Wendy's, would you like to try a new place in Baconator today?
+
+2
+00:00:07,040 --> 00:00:15,200
+Uh, no thank you, uh, can I grab, uh, two, uh, JBCs, but just plain, please?
+
+3
+00:00:15,200 --> 00:00:17,200
+Both of them plain?
+
+4
+00:00:17,200 --> 00:00:18,200
+Yes, please.
+
+5
+00:00:18,200 --> 00:00:21,200
+And then, um, the five piece nuggets.
+
+6
+00:00:21,200 --> 00:00:22,200
+Clamsans for your dipping?
+
+7
+00:00:22,200 --> 00:00:23,200
+Uh, barbecue, please.
+
+8
+00:00:23,200 --> 00:00:24,200
+Anything else for you?
+
+9
+00:00:24,200 --> 00:00:25,200
+Uh, that's everything.
+
+10
+00:00:25,200 --> 00:00:30,200
+Driver, please, thank you.
+

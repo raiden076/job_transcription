@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:09,000
+Hi, welcome to Wendy's. Would you like to try a new blazin' sandwich today?
+
+2
+00:00:09,000 --> 00:00:12,000
+No, thank you.
+
+3
+00:00:12,000 --> 00:00:15,000
+Hi, may I take you out of the plane?
+
+4
+00:00:15,000 --> 00:00:17,000
+Can I get a number one combo?
+
+5
+00:00:17,000 --> 00:00:19,000
+Cooked to drink?
+
+6
+00:00:19,000 --> 00:00:22,000
+No.
+
+7
+00:00:22,000 --> 00:00:25,000
+Would it be medium or large combo?
+
+8
+00:00:25,000 --> 00:00:29,000
+Regular, medium, small, medium.
+
+9
+00:00:29,000 --> 00:00:33,000
+Which drink do you want?
+
+10
+00:00:33,000 --> 00:00:35,000
+Ice cream.
+
+11
+00:00:35,000 --> 00:00:36,000
+Anything else for you?
+
+12
+00:00:36,000 --> 00:00:37,000
+No, that's okay.
+
+13
+00:00:37,000 --> 00:01:06,000
+Drive up here, thank you.
+

@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:02,000
+Do you want a frosty or no?
+
+2
+00:00:04,500 --> 00:00:05,000
+Huh?
+
+3
+00:00:06,500 --> 00:00:07,000
+Soda?
+
+4
+00:00:08,500 --> 00:00:15,500
+Sorry, can I also get a kid's meal with the four piece chicken nuggets?
+
+5
+00:00:16,000 --> 00:00:18,000
+Okay, apple juice for the drink?
+
+6
+00:00:18,500 --> 00:00:20,000
+Can I get a soda please?
+
+7
+00:00:20,000 --> 00:00:21,000
+Okay, which one?
+
+8
+00:00:21,500 --> 00:00:23,000
+Uh, what soda is it?
+
+9
+00:00:23,000 --> 00:00:24,000
+Sprite please?
+
+10
+00:00:25,000 --> 00:00:26,000
+Sprite please?
+
+11
+00:00:26,500 --> 00:00:27,000
+Sorry?
+
+12
+00:00:27,000 --> 00:00:28,000
+Sprite?
+
+13
+00:00:28,000 --> 00:00:29,000
+Okay.
+
+14
+00:00:29,000 --> 00:00:30,000
+And that's everything.
+
+15
+00:00:30,000 --> 00:00:55,000
+Alright good, I'll speak to you.
+

@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try a new Blaze and Baconator today?
+
+2
+00:00:07,000 --> 00:00:09,000
+No, thanks.
+
+3
+00:00:09,000 --> 00:00:11,000
+Can I take you out of place?
+
+4
+00:00:11,000 --> 00:00:15,000
+Just gonna get your Bacon Deluxe Combo.
+
+5
+00:00:15,000 --> 00:00:18,000
+Bacon Deluxe Combo. Is it cooked to drink?
+
+6
+00:00:18,000 --> 00:00:19,000
+Yeah.
+
+7
+00:00:19,000 --> 00:00:21,000
+Would that be medium or large combo?
+
+8
+00:00:21,000 --> 00:00:23,000
+No, just regular.
+
+9
+00:00:23,000 --> 00:00:24,000
+Anything else for you?
+
+10
+00:00:24,000 --> 00:00:25,000
+No, that's it.
+
+11
+00:00:25,000 --> 00:00:31,000
+Very good, thank you.
+

@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hi, welcome to Wendy's. Would you like to try a new prison baconator today?
+
+2
+00:00:06,000 --> 00:00:13,000
+Just one second. Do you have a kids combo with chicken strips?
+
+3
+00:00:13,000 --> 00:00:18,000
+No, it comes with a nuggets.
+
+4
+00:00:18,000 --> 00:00:21,000
+Okay, can I get chicken strips combo then?
+
+5
+00:00:21,000 --> 00:00:23,000
+Chicken strips combo.
+
+6
+00:00:23,000 --> 00:00:25,000
+The three strips.
+
+7
+00:00:25,000 --> 00:00:27,000
+Cooked to drink and plum sauce is fine?
+
+8
+00:00:27,000 --> 00:00:30,000
+Yeah, it's fine.
+
+9
+00:00:30,000 --> 00:00:32,000
+Would it be a medium or large combo?
+
+10
+00:00:32,000 --> 00:00:34,000
+Small combo.
+
+11
+00:00:34,000 --> 00:00:36,000
+Anything else for you?
+
+12
+00:00:36,000 --> 00:00:37,000
+No, it's okay.
+
+13
+00:00:37,000 --> 00:00:58,000
+Driver please thank you.
+

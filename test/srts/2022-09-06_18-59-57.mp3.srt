@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try our new Blaze & Baconator today?
+
+2
+00:00:07,000 --> 00:00:12,000
+Oh no, I'm good. Do you guys have chicken nuggets?
+
+3
+00:00:12,000 --> 00:00:17,000
+We do have 5 teas and 10 teas nuggets. Can I have the 10 teas please?
+
+4
+00:00:17,000 --> 00:00:20,000
+Would you like to make it combo? No, that's fine, just the nuggets.
+
+5
+00:00:20,000 --> 00:00:25,000
+Plum sauce for the dipping? Can I catch up please?
+
+6
+00:00:25,000 --> 00:00:27,000
+Anything else for you? That's it.
+
+7
+00:00:27,000 --> 00:00:30,000
+Drive up there, thank you.
+

@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try a new blazing baconator today?
+
+2
+00:00:07,000 --> 00:00:11,000
+Um, no. Can I get a Dave's level combo, please?
+
+3
+00:00:11,000 --> 00:00:15,000
+Cooked to drink? Is it cooked to drink?
+
+4
+00:00:15,000 --> 00:00:19,000
+Can I get a strawberry lemonade? Would that be medium or large combo?
+
+5
+00:00:19,000 --> 00:00:22,000
+Uh, medium, please. Anything else for you?
+
+6
+00:00:22,000 --> 00:00:25,000
+Sorry, can I get the strawberry lemonade? Can I mix that with some Sprite, please?
+
+7
+00:00:25,000 --> 00:00:27,000
+Okay, sure, no problem. Anything else for you?
+
+8
+00:00:27,000 --> 00:00:30,000
+No, that's okay. Drive up, please. Thank you.
+

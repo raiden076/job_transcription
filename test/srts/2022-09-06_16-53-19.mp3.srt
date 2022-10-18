@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try a new blazing bacon eater today?
+
+2
+00:00:07,000 --> 00:00:15,000
+No, thank you. Because I have two large, two medium frosty chocolates and a medium fried...
+
+3
+00:00:15,000 --> 00:00:17,000
+Two medium chocolate frosty?
+
+4
+00:00:17,000 --> 00:00:21,000
+Yes, and a medium fried no salt.
+
+5
+00:00:21,000 --> 00:00:22,000
+Sure, anything else for you?
+
+6
+00:00:22,000 --> 00:00:25,000
+No, that's it.
+
+7
+00:00:25,000 --> 00:00:31,000
+Driver, please, thank you.
+

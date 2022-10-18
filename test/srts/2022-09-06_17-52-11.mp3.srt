@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:12,480
+So we do have the new sandwich, it's the Blazin' Baconator.
+
+2
+00:00:12,480 --> 00:00:16,100
+How much is that?
+
+3
+00:00:16,100 --> 00:00:19,680
+The new sandwich, it's, let me check.
+
+4
+00:00:19,680 --> 00:00:22,720
+Okay can I have a number 2 please?
+
+5
+00:00:22,720 --> 00:00:23,720
+It's $8.50.
+
+6
+00:00:23,720 --> 00:00:27,920
+Does it come with a 5?
+
+7
+00:00:27,920 --> 00:00:30,520
+No it's just a sandwich, it's $8.50.
+
+8
+00:00:30,520 --> 00:00:33,040
+Okay can I have a number 2 please?
+
+9
+00:00:33,040 --> 00:00:34,040
+Number 2 combo?
+
+10
+00:00:34,040 --> 00:00:35,040
+Yes.
+
+11
+00:00:35,040 --> 00:00:36,040
+Coke to drink?
+
+12
+00:00:36,040 --> 00:00:37,040
+What do you mean?
+
+13
+00:00:37,040 --> 00:00:38,040
+Lemonade?
+
+14
+00:00:38,040 --> 00:00:39,040
+You want strawberry lemonade?
+
+15
+00:00:39,040 --> 00:00:40,040
+Would that be medium or large combo?
+
+16
+00:00:40,040 --> 00:00:41,040
+No whatever it comes with, medium.
+
+17
+00:00:41,040 --> 00:00:42,040
+Okay anything else for you?
+
+18
+00:00:42,040 --> 00:00:45,040
+Oh I mean the combo is just a small combo, yeah, no that's it.
+
+19
+00:00:45,040 --> 00:00:46,040
+Drive up this, thank you.
+
+20
+00:00:46,040 --> 00:00:47,040
+It's $8.50.
+
+21
+00:00:47,040 --> 00:00:48,040
+Okay, can I have a number 2 please?
+
+22
+00:00:48,040 --> 00:00:49,040
+No, it's $8.50.
+
+23
+00:00:49,040 --> 00:00:50,040
+Okay, can I have a number 2 please?
+
+24
+00:00:50,040 --> 00:00:51,040
+No, it's $8.50.
+
+25
+00:00:51,040 --> 00:00:52,040
+Okay, can I have a number 2 please?
+
+26
+00:00:52,040 --> 00:00:53,040
+No, it's $8.50.
+
+27
+00:00:53,040 --> 00:00:54,040
+Okay, can I have a number 2 please?
+
+28
+00:00:54,040 --> 00:00:55,040
+No, it's $8.50.
+
+29
+00:00:55,040 --> 00:00:59,980
+Okay, can I have a number 2 please?
+
+30
+00:00:59,980 --> 00:01:02,460
+Yeah, that's it.
+
+31
+00:01:02,460 --> 00:01:06,480
+Drive up this, thank you.
+
+32
+00:01:06,480 --> 00:01:08,880
+Excuse me, what time do you want?
+

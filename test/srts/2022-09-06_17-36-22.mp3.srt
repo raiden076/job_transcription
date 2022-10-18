@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hi, welcome to Wendy's. Would you like to try a new place in Baconator today?
+
+2
+00:00:06,000 --> 00:00:08,000
+Uh, no. I don't want to.
+
+3
+00:00:08,000 --> 00:00:13,000
+Okay. Welcome to Junior Bacon Cheeseburgers.
+
+4
+00:00:13,000 --> 00:00:14,000
+Okay.
+
+5
+00:00:14,000 --> 00:00:17,000
+Um, do you have that in a combo?
+
+6
+00:00:17,000 --> 00:00:22,000
+Uh, the jibisit doesn't come with combo. I can give you on the side.
+
+7
+00:00:22,000 --> 00:00:26,000
+Okay, um, two single fries with it.
+
+8
+00:00:26,000 --> 00:00:27,000
+Okay.
+
+9
+00:00:27,000 --> 00:00:30,000
+And that's it. That's all. Thanks.
+
+10
+00:00:30,000 --> 00:00:32,000
+You want any drink with that?
+
+11
+00:00:32,000 --> 00:00:33,000
+No, thank you.
+
+12
+00:00:33,000 --> 00:00:59,000
+Driver, please. Thank you.
+

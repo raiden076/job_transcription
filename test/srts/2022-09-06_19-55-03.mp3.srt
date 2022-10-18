@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hi, welcome to Bandy's. Would you like to try new blazed and bacon nature today?
+
+2
+00:00:06,000 --> 00:00:10,000
+No. How much is the frosting?
+
+3
+00:00:10,000 --> 00:00:12,000
+Sorry?
+
+4
+00:00:12,000 --> 00:00:14,000
+How much is the frosting?
+
+5
+00:00:14,000 --> 00:00:15,000
+The frosting?
+
+6
+00:00:15,000 --> 00:00:17,000
+It's two dollar.
+
+7
+00:00:17,000 --> 00:00:19,000
+Before it's one dollar deal, it's done.
+
+8
+00:00:19,000 --> 00:00:22,000
+The promotion, actually it's over.
+
+9
+00:00:22,000 --> 00:00:24,000
+Over.
+
+10
+00:00:24,000 --> 00:00:30,000
+No, that's fine. I will help you. Thank you.
+

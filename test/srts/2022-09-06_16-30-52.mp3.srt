@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hi, welcome to Wendy's. Would you like to try a new blazon bacon eater today?
+
+2
+00:00:06,000 --> 00:00:11,000
+No, not today. Do you still have frosties for 99 cents?
+
+3
+00:00:11,000 --> 00:00:13,000
+No, it's not enough.
+
+4
+00:00:13,000 --> 00:00:16,000
+Okay. Can I have a medium vanilla frosty?
+
+5
+00:00:16,000 --> 00:00:22,000
+I'm sorry, we don't carry vanilla anymore. So, we do have the caramel apple. Would you like to try that one?
+
+6
+00:00:22,000 --> 00:00:26,000
+No, no. It's okay. Thank you. It's okay.
+
+7
+00:00:26,000 --> 00:00:32,000
+Thank you.
+

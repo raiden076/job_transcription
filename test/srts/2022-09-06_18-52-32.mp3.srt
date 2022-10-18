@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hi, welcome to Wendy's. Would you like to try new Beez & Baconator today?
+
+2
+00:00:05,000 --> 00:00:07,000
+Yeah, can I get the sandwich?
+
+3
+00:00:10,000 --> 00:00:12,000
+Would you like to make it combo?
+
+4
+00:00:12,000 --> 00:00:14,000
+No, no fries, I'm okay.
+
+5
+00:00:14,000 --> 00:00:15,000
+I'm sorry?
+
+6
+00:00:15,000 --> 00:00:17,000
+No, I'm okay. I don't want a drink though.
+
+7
+00:00:19,000 --> 00:00:20,000
+Anything else for you?
+
+8
+00:00:20,000 --> 00:00:21,000
+Yeah, can I get a...
+
+9
+00:00:23,000 --> 00:00:24,000
+Can I get a...
+
+10
+00:00:24,000 --> 00:00:26,000
+Do you have a watermelon strawberry still?
+
+11
+00:00:26,000 --> 00:00:29,000
+Yeah, you want watermelon or the strawberry?
+
+12
+00:00:29,000 --> 00:00:30,000
+Ah, watermelon please.
+
+13
+00:00:30,000 --> 00:00:32,000
+Would that be medium or large?
+
+14
+00:00:32,000 --> 00:00:34,000
+I'll get a medium size.
+
+15
+00:00:34,000 --> 00:00:35,000
+Anything else for you?
+
+16
+00:00:35,000 --> 00:00:37,000
+Yeah, can I get a...
+
+17
+00:00:37,000 --> 00:00:40,000
+A frosty? A dollar frosty, just have it.
+
+18
+00:00:40,000 --> 00:00:43,000
+You want chocolate or the caramel apple frosty?
+
+19
+00:00:43,000 --> 00:00:45,000
+Ah, I'll get the chocolate one.
+
+20
+00:00:45,000 --> 00:00:46,000
+Anything else for you?
+
+21
+00:00:46,000 --> 00:00:47,000
+That's it.
+
+22
+00:00:47,000 --> 00:00:57,000
+Drive up there, thank you.
+

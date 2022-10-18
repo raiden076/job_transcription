@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:07,000
+Hi, welcome to Wendy's. Would you like to try a new Pleasant Baconator today?
+
+2
+00:00:07,000 --> 00:00:11,000
+No. Can you give me number 5 sandwich?
+
+3
+00:00:11,000 --> 00:00:13,000
+Would you like to make it combo?
+
+4
+00:00:13,000 --> 00:00:17,000
+No.
+
+5
+00:00:17,000 --> 00:00:20,000
+And also give me one poutine.
+
+6
+00:00:20,000 --> 00:00:21,000
+Okay.
+
+7
+00:00:21,000 --> 00:00:23,000
+That's all.
+
+8
+00:00:23,000 --> 00:00:30,000
+Burger, please. Thank you.
+
